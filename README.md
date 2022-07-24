@@ -18,3 +18,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](http://mit.edu)
+
+![kodluyoruz](https://www.pexels.com/photo/bike-chain-number-one-1061142/)
+
+![Kodla](/assets/images/tux.png)
