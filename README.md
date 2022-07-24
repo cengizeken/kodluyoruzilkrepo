@@ -16,6 +16,9 @@ https://github.com/cengizeken/kodluyoruzilkrepo.git
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi anlatan konu açınız.
 
+## linkler
+
+[Patika](http://wwwpatika.dev)
 ## License
 [MIT](http://mit.edu)
 
