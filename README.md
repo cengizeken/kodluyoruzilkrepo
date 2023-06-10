@@ -18,7 +18,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## linkler
 
-[Patika](http://wwwpatika.dev)
+[Patika](http://www.patika.dev)
 ## License
 [MIT](http://mit.edu)
 
